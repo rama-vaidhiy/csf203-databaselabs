@@ -18,3 +18,7 @@ g. [Lab 7](lab7.md) - Updating, Deleting, and Inserting data
 
 h. [Lab 8](lab8.md) - Creating tables and constraints
 
+i. [Lab 9](lab9.md) - Joins
+
+j. [Lab 10](lab10.md) - Query within Query
+
